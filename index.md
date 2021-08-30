@@ -17,7 +17,7 @@ Syntax highlighted code block
 - Learn more about how to efficiently use Github
 - Learn about career oppurtunities in CS
 - Getting to learn useful information without having to worry about rigorus assignments
-- 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
